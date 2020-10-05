@@ -1,5 +1,5 @@
 * {
-    margin: 40px;
+    margin: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: #A2ACBD;
     background-color: #3E4756;
@@ -7,6 +7,10 @@
 
 h1 {
     color: #5f7eaa;
+}
+
+body {
+    margin: 250px;
 }
 
 img {
