@@ -1,3 +1,3 @@
-# 1620_lab2
-ACIT 1620 - Lab 2 - 
+# 1620-Website Labs
+ACIT 1620 
 # Adrian McFarlane

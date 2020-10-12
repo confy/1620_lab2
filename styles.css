@@ -1,16 +1,25 @@
 * {
     margin: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #A2ACBD;
-    background-color: #3E4756;
+    color: #060E0D;
+    background-color: #EEF7FC;
 }
 
 h1 {
-    color: #5f7eaa;
+    font-family: 'Noto Sans', sans-serif;
+    color: #67A1E0;
 }
-
-body {
-    margin: 250px;
+body.index {
+    font-family: 'Noto Sans', sans-serif;
+}
+body.school {
+    font-family: 'Noto Sans', sans-serif;
+}
+body.about {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 7em 20em;
+}
+div.about {
+    font-family: 'Noto Serif', serif;
 }
 
 img {
